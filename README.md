@@ -15,5 +15,5 @@ For personal use.
 3. wget https://github.com/TATStudio2025/Video-Shorts/releases/download/Update.1/Video-Shorts-By-TAT.zip
 4. sudo apt install unzip
 5. unzip Video-Shorts-By-TAT.zip
-6. cd Video-Shorts-By-TAT/Video-Shorts-main
+6. cd Video-Shorts-main
 7. node run.js
