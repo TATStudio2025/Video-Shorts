@@ -1,6 +1,7 @@
 <h1>Video Shorts</h1>
 
 For personal use.
+
 <h2>Install</h2>
 
 <h3>Windows</h3>
@@ -9,6 +10,7 @@ For personal use.
 - Download https://github.com/TATStudio2025/Video-Shorts/releases/download/Update.1/Video-Shorts-By-TAT.zip
 - Unzip Video-Shorts-By-TAT.zip
 - Run node run.js
+- Connect localhost:3000
 
 <h3>Linux</h3>
 
@@ -19,3 +21,4 @@ For personal use.
 - unzip Video-Shorts-By-TAT.zip
 - cd Video-Shorts-main
 - node run.js
+- Connect localhost:3000
